@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079471300560",
+    "firebase_url": "https://innowit-47585-default-rtdb.firebaseio.com",
+    "project_id": "innowit-47585",
+    "storage_bucket": "innowit-47585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079471300560:android:8317c43eea61d34f7ba3d5",
+        "android_client_info": {
+          "package_name": "com.example.innowit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079471300560-efpfdfsih8677k5aacskvd2uq4k042ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.innowit",
+            "certificate_hash": "77dab2a7cae3674fa1ef9d9607c79b5e06146f7e"
+          }
+        },
+        {
+          "client_id": "1079471300560-i9vt8m190cmlns9us9h204picbc36d2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJZDveeaKLrqwh1lAgrZAeElCWVnKsag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079471300560-i9vt8m190cmlns9us9h204picbc36d2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
